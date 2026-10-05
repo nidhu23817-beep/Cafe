@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Moka | Specialty Coffee & Hearth Bakery",
+  "description": "Artisanal specialty coffee roastery and organic sourdough hearth bakery. Explore our curated seasonal menu, reserve a table, and order ahead.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
